@@ -1,21 +1,17 @@
 # College Website – Mini Project
 
+A professional, multi-page static College Website developed as part of the SYBCA Semester-4 Mini Project and officially submitted in TYBCA Semester-6. This website showcases essential college information, course details, faculty profiles, and includes interactive registration and contact forms.
 
+## 🔗 Live Preview
 
+_You can add your deployed link here (e.g., GitHub Pages) when available._
 
+---
 
+## 📁 Project Structure
 
-
-
-A simple, static College Website developed as a SYBCA Semester-4 Mini Project and submitted in TYBCA Sem-6.
-The website includes multiple pages like Home, About, Courses, Faculties, Contact, and Registration.
-
-🔗 Live Preview (Optional)
-
-Add your GitHub Pages link here if you want later.
-
-📁 Project Structure
-College-Website/
+```
+college-website/
 │── index.html
 │── about.html
 │── courses.html
@@ -29,122 +25,119 @@ College-Website/
 │     ├── p3.jfif
 │     └── logo11.png
 │── README.md
+```
 
-🧭 Navigation Scheme
-Home
+---
 
-Navigation Menu
+## 🧭 Website Navigation Overview
 
-College Name & Logo
+- **Home**: 
+  - Navigation menu
+  - College name & logo
+  - Responsive image slideshow
+  - Introductory information
+  - Footer
 
-Slideshow (3 Images)
+- **About**: 
+  - College introduction
+  - Vision & Mission statement
+  - Department details
 
-Intro Text
+- **Courses**: 
+  - Listings for BCA, BBA, etc.
+  - Detailed course descriptions
+  - Card-based layout for quick browsing
 
-Footer
-(From uploaded file index.html)
+- **Facilities**: 
+  - Overview of campus facilities
 
-About
+- **Faculties**: 
+  - Faculty list
+  - Teacher information cards
 
-College Information
+- **Contact**: 
+  - Modern contact form
+  - College address & information
+  - Hero background section
 
-Vision / Mission
+- **Register**: 
+  - Secure student registration form
+  - Fields for name, email, course selection, message, and more
 
-Department Overview
+---
 
-Courses
+## 🎨 User Interface / Styling
 
-BCA
+All user interface components are managed via `styles.css`, covering:
 
-BBA
+- Headers & navigation menus
+- Hero and background sections
+- Informative cards
+- Responsive image slider
+- Form styling for Contact & Register
+- Buttons & hover effects
+- Footer styling
 
-Course Information
+---
 
-Card-based layout
+## 🚀 Key Features
 
-Faculties
+- ✅ Clean, modern, multi-page UI
+- ✅ Fully static, high-performance website
+- ✅ CSS-driven adaptive layouts
+- ✅ JavaScript-powered image slideshow
+- ✅ Functional, client-side forms
+- ✅ Basic mobile responsiveness
 
-List of Faculties
+---
 
-Teacher Information Cards
+## 🛠 Technologies Used
 
-Contact
+| Technology  | Role                          |
+|-------------|-------------------------------|
+| HTML5       | Structure & content           |
+| CSS3        | Styling & layout              |
+| JavaScript  | Interactive slideshow         |
+| Images      | Visual presentation           |
 
-Contact Form
+---
 
-Address Information
+## 👨‍💻 Developer Information
 
-Background Hero Section
+- **Name:** Dishant Patel
+- **Program:** TYBCA (Semester 6)
+- **Project Development:** Semester 4 (SYBCA)
+- **Project Type:** Academic Mini Project – College Website
 
-Register
+---
 
-Student Registration Form
+## 📦 How to Run
 
-Name, Email, Course Selection, Message, etc.
+1. Download or clone the repository.
+2. Ensure all files remain in the original directory structure.
+3. Open `index.html` in any modern web browser.
+4. Navigate between pages using the menu bar.
 
-🎨 UI / Styling
+---
 
-All frontend UI components are handled in styles.css, including:
+## 📸 Screenshots
 
-Header & Navigation
+_Add interface screenshots here when available:_
 
-Hero Sections
+- ![Home Page](path-to-image)
+- ![Courses Page](path-to-image)
 
-Cards
+---
 
-Image Slider
+## 🤝 Contributing
 
-Contact & Register Forms
+This repository serves educational purposes as an academic mini project.
+Contributions are welcome for collaborative learning.
 
-Buttons & Hover Effects
+---
 
-Footer
+## 📄 License
 
-🚀 Features
+This project is intended solely for educational use and is not licensed for commercial deployment.
 
-✔ Clean UI with modern color scheme
-✔ Fully static multi-page website
-✔ CSS-based page layouts
-✔ JavaScript image slider
-✔ Simple forms for contact & registration
-✔ Mobile friendly (basic responsiveness)
-
-🛠 Technologies Used
-Technology	Purpose
-HTML5	Structure & content
-CSS3	Styling & layout
-JavaScript	Slideshow functionality
-Images	Visual presentation
-🙋‍♂️ Developer Information
-
-Name: Dishant Patel
-Class: TYBCA – Semester 6
-Project Developed In: Semester 4 (SYBCA)
-Project Type: Mini Project – College Website
-
-📦 How to Run
-
-Download or clone the repository.
-
-Keep all files in the same folder.
-
-Open index.html in any web browser.
-
-Navigate using the menu bar.
-
-📸 Screenshots (Optional)
-
-Add images here when available:
-
-![Home Page](path-to-image)
-![Courses Page](path-to-image)
-
-🤝 Contributing
-
-This is an academic mini project.
-Contributions are welcome for learning purposes only.
-
-📄 License
-
-This project is for educational use only.
-Not intended for commercial deployment.
+```
