@@ -2,13 +2,13 @@
 
 A professional, multi-page static College Website developed as part of the SYBCA Semester-4 Mini Project and officially submitted in TYBCA Semester-6. This website showcases essential college information, course details, faculty profiles, and includes interactive registration and contact forms.
 
-## 🔗 Live Preview
+## Live Preview
 
 _You can add your deployed link here (e.g., GitHub Pages) when available._
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 college-website/
@@ -29,7 +29,7 @@ college-website/
 
 ---
 
-## 🧭 Website Navigation Overview
+## Website Navigation Overview
 
 - **Home**: 
   - Navigation menu
@@ -66,7 +66,7 @@ college-website/
 
 ---
 
-## 🎨 User Interface / Styling
+## User Interface / Styling
 
 All user interface components are managed via `styles.css`, covering:
 
@@ -80,7 +80,7 @@ All user interface components are managed via `styles.css`, covering:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - ✅ Clean, modern, multi-page UI
 - ✅ Fully static, high-performance website
@@ -91,7 +91,7 @@ All user interface components are managed via `styles.css`, covering:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 | Technology  | Role                          |
 |-------------|-------------------------------|
@@ -102,7 +102,7 @@ All user interface components are managed via `styles.css`, covering:
 
 ---
 
-## 👨‍💻 Developer Information
+## Developer Information
 
 - **Name:** Dishant Patel
 - **Program:** TYBCA (Semester 6)
@@ -111,7 +111,7 @@ All user interface components are managed via `styles.css`, covering:
 
 ---
 
-## 📦 How to Run
+## How to Run
 
 1. Download or clone the repository.
 2. Ensure all files remain in the original directory structure.
@@ -120,7 +120,7 @@ All user interface components are managed via `styles.css`, covering:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 _Add interface screenshots here when available:_
 
@@ -129,14 +129,14 @@ _Add interface screenshots here when available:_
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This repository serves educational purposes as an academic mini project.
 Contributions are welcome for collaborative learning.
 
 ---
 
-## 📄 License
+## License
 
 This project is intended solely for educational use and is not licensed for commercial deployment.
 
