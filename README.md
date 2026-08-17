@@ -1,4 +1,4 @@
-# College Website – Mini Project
+# College Website – Mini Project **(https://d1shu.github.io/college-website/)**
 
 A professional, multi-page static College Website developed as part of the SYBCA Semester-4 Mini Project and officially submitted in TYBCA Semester-6. This website showcases essential college information, course details, faculty profiles, and includes interactive registration and contact forms.
 
